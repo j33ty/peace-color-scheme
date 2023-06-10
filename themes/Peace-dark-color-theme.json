@@ -1,0 +1,16 @@
+{
+	"tokenColors": "./Peace-dark.tmTheme",
+	"colors": {
+		"editor.background": "#f4f4f4",
+		"editor.foreground": "#601818",
+		"editor.lineHighlightBackground": "#601818",
+		"editor.selectionBackground": "#601818",
+		"editorCursor.foreground": "#601818",
+		"editorWhitespace.foreground": "#601818",
+		"editorIndentGuide.background": "#404040",
+		"editorRuler.foreground": "#333333",
+		"activityBarBadge.background": "#007acc",
+		"sideBarTitle.foreground": "#bbbbbb"
+	},
+	"name": "Peace Dark"
+}

@@ -1,10 +1,14 @@
 {
   "name": "peace",
-  "displayName": "peace",
+  "displayName": "Peace",
   "description": "Peaceful color scheme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
+  },
+  "repository": {
+	"url": "https://github.com/j33ty/peace-color-scheme",
+	"type": "git"
   },
   "categories": [
     "Themes"
@@ -12,9 +16,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Peace",
+        "label": "Peace Light",
         "uiTheme": "vs",
-        "path": "./themes/Peace-color-theme.json"
+        "path": "./themes/Peace-light-color-theme.json"
+      },
+      {
+        "label": "Peace Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Peace-dark-color-theme.json"
       }
     ]
   }
