@@ -1,0 +1,1 @@
+# Peace color scheme
